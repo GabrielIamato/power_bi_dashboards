@@ -59,7 +59,7 @@ Each folder includes a Power BI `.pbix` file, a data file, and possibly some ima
 
 2. **Navigate to the desired folder**:
    ```bash
-   cd power_bi_dashboards/Lesson1
+   cd power_bi_dashboards/Aula1
    ```
 
 3. **Open the `.pbix` file**:
