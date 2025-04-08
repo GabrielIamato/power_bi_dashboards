@@ -20,6 +20,7 @@ Each folder includes a Power BI `.pbix` file, a data file, and possibly some ima
 - Revenue and quantity sold by year and month  
 
 ### Lesson 2: Production Dashboard
+![Production Dashboard](images_readme/aula2.jpg)
 
 **Objective**: Explore intermediate techniques in data modeling and DAX (Data Analysis Expressions), as well as data filtering with a dynamic dashboard.
 
@@ -29,6 +30,7 @@ Each folder includes a Power BI `.pbix` file, a data file, and possibly some ima
 - Visible quantity and availability  
 
 ### Lesson 3: HR Dashboard
+![HR Dashboard](images_readme/aula3.jpg)
 
 **Objective**: Focus on advanced customization and formatting of visualizations.
 
@@ -38,6 +40,7 @@ Each folder includes a Power BI `.pbix` file, a data file, and possibly some ima
 - Employees by department and role  
 
 ### Lesson 4: Banking Dashboard
+![Banking Dashboard](images_readme/aula4.jpg)
 
 **Objective**: Implement advanced features and performance optimization, with advanced charts and icon-based visualizations.
 
