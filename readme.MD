@@ -9,7 +9,7 @@ Each folder includes a Power BI `.pbix` file, a data file, and possibly some ima
 ## 📋 Dashboard Descriptions
 
 ### Lesson 1: Sales Dashboard
-
+![Sales Dashboard](images_readme/aula1.png)
 **Objective**: Introduce basic Power BI concepts, including data import, simple visualizations, and report publishing.
 
 **Features**:
